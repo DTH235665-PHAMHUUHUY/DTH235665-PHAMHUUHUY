@@ -7,13 +7,6 @@
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Python projects**  
-- 🌱 I’m learning **AI & Data Science**  
-- 💬 Ask me about **Python, Git, and Automation**  
-- ⚡ Fun fact: *I enjoy coding with coffee ☕*  
-
----
 
 ### 📫 Connect with me:  
 <p align="left">
