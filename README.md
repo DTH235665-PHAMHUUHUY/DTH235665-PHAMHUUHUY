@@ -7,6 +7,7 @@
 ✍  I'm a student of: [An Giang University of Technology and Education] (AGU).: [An Giang University of Technology and Education] (AGU).
 
 🌱 Hobbies: playing games, listening to music, reading books
+
 ![Coder](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
