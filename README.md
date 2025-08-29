@@ -1,6 +1,28 @@
 <h1 align="center">Hi 👋, I'm Huu Huy</h1>
+<h3 align="center">A passionate developer from Vietnam 🇻🇳</h3>
+
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder GIF">
+</p>
+
+---
+
+### 🚀 About Me  
+- 🔭 I’m currently working on **Python projects**  
+- 🌱 I’m learning **AI & Data Science**  
+- 💬 Ask me about **Python, Git, and Automation**  
+- ⚡ Fun fact: *I enjoy coding with coffee ☕*  
+
+---
+
+### 📫 Connect with me:  
+<p align="left">
+  <a href="https://github.com/your-github" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 
